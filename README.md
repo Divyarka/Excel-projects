@@ -1,4 +1,4 @@
-# Excel-projects
+# Sales & Finance Analytics: Excel-project
 ## Sales Report :
 
 
